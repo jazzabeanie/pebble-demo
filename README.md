@@ -1,6 +1,6 @@
 # README
 
-To reproduce:
+To reproduce on Pebble Tool v5.0.13 (active SDK: v4.9.77):
 
 - install SDK almost according to https://developer.repebble.com/sdk/
   - install node
