@@ -1,0 +1,32 @@
+{
+    "displayName": "pebble-demo",
+    "uuid": "7f426908-efe3-43aa-a50a-22292ecbf6ce",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk",
+        "diorite",
+        "emery",
+        "flint"
+    ],
+    "watchapp": {
+        "watchface": false
+    },
+    "messageKeys": {
+        "dummy": 10000
+    },
+    "resources": {
+        "media": []
+    },
+    "name": "pebble-demo",
+    "shortName": "pebble-demo",
+    "longName": "pebble-demo",
+    "versionLabel": "1.0",
+    "companyName": "MakeAwesomeHappen",
+    "appKeys": {
+        "dummy": 10000
+    },
+    "capabilities": []
+}
