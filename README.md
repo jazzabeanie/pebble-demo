@@ -18,4 +18,4 @@ Once it's set up, just run:
 - `pebble build`
 - `pebble install --emulator basalt`
 
-Now press and hold the up button on your keyboard (but not long enough for it to register a long press). See the app register 2 button presses.
+Now press and hold the up button on your keyboard (but not long enough for it to register a long press). See the app register 2 button presses when I would expect only 1. Upload the pbw file to a watch and you will see the expected behaviour.
